@@ -21,5 +21,6 @@ I want to gain knowledge in the field of front-end development in order to make 
 * Belarusian National Technical University
     * Automation of technological processes and production 
 
+
 ## Language ##
 * English A2
